@@ -8,6 +8,11 @@ target 'RequestManager' do
   # Pods for RequestManager
   # Networking
   pod 'Alamofire'
+  pod 'SwiftyJSON', :git => 'https://github.com/SwiftyJSON/SwiftyJSON.git'
+  pod 'R.swift'
+  pod 'SwiftLint'
+
+
   target 'RequestManagerTests' do
     inherit! :search_paths
     # Pods for testing
