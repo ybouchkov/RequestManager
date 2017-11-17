@@ -9,7 +9,6 @@ target 'RequestManager' do
   # Networking
   pod 'Alamofire'
   pod 'SwiftyJSON', :git => 'https://github.com/SwiftyJSON/SwiftyJSON.git'
-  pod 'R.swift'
   pod 'SwiftLint'
 
 

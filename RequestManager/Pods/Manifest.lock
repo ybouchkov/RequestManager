@@ -1,14 +1,10 @@
 PODS:
   - Alamofire (4.5.1)
-  - R.swift (4.0.0):
-    - R.swift.Library (~> 4.0.0)
-  - R.swift.Library (4.0.0)
   - SwiftLint (0.23.1)
   - SwiftyJSON (4.0.0)
 
 DEPENDENCIES:
   - Alamofire
-  - R.swift
   - SwiftLint
   - SwiftyJSON (from `https://github.com/SwiftyJSON/SwiftyJSON.git`)
 
@@ -23,11 +19,9 @@ CHECKOUT OPTIONS:
 
 SPEC CHECKSUMS:
   Alamofire: 2d95912bf4c34f164fdfc335872e8c312acaea4a
-  R.swift: d6a5ec2f55a8441dc0ed9f1f8b37d7d11ae85c66
-  R.swift.Library: c3af34921024333546e23b70e70d0b4e0cffca75
   SwiftLint: 1b670ce79284c76520f84060e87d645078fd32fa
   SwiftyJSON: 8cd73b154950360d79292a8dc8c0d0a85d258930
 
-PODFILE CHECKSUM: 75b3a20bb7a94cfe681cbc5c57c84f0c1f6717ec
+PODFILE CHECKSUM: 5c8a040625ad596e270d98371c2b234f924482c3
 
 COCOAPODS: 1.3.1
